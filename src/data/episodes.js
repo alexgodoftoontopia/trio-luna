@@ -20,10 +20,12 @@ const episodes = [
     title: "Temporada 2",
     episodes: [
       { number: 11, title: "Trio Luna Meets The Little Mermaid" },
-      { number: 12, title: "Trio Luna Meets The Lion King" }
+      { number: 12, title: "Trio Luna Meets The Lion King" },
+      { number: 13, title: "Trio Luna Meets Bambi" },
+      { number: 14, title: "Trio Luna Meets The Jungle Book" }
       // episodios de la temporada 2
     ]
   }
 ];
 
-export default episodes;
+export default episodes
