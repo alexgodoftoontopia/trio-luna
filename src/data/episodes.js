@@ -28,4 +28,4 @@ const episodes = [
   }
 ];
 
-export default episodes
+export default episodes;
