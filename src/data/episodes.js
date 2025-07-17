@@ -11,7 +11,7 @@ const episodes = [
   { number: 6, title: "Trio Luna's Adventures of The Nightmare Before Christmas" },
   { number: 7, title: "Trio Luna Meets The Hunchback of Notre Dame" },
   { number: 9, title: "Trio Luna Meets Oliver and Company" },
-  { number: 10, title: "Trio Luna's Adventures of Fantasia"}
+  { number: 10, title: "Trio Luna Meets Dumbo"}
       // episodios de la temporada 1
     ]
   },
