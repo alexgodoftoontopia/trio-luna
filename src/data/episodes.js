@@ -1,17 +1,17 @@
-const episodes = [
+const rawEpisodes = [
   {
     season: 1,
     title: "Temporada 1",
     episodes: [
-      { number: 1, title: "Trio Luna's Adventures of The Little Mermaid: Ariel's Beginning" },
-  { number: 2, title: "Trio Luna Meets The Prince and The Pauper" },
-  { number: 3, title: "Trio Luna Knows How the Grinch Stole Christmas" },
-  { number: 4, title: "Trio Luna Meets Pocahontas"},
-  { number: 5, title: "Trio Luna Meets Ferdinand"},
-  { number: 6, title: "Trio Luna's Adventures of The Nightmare Before Christmas" },
-  { number: 7, title: "Trio Luna Meets The Hunchback of Notre Dame" },
-  { number: 9, title: "Trio Luna Meets Oliver and Company" },
-  { number: 10, title: "Trio Luna Meets Dumbo"}
+      { title: "Trio Luna's Adventures of The Little Mermaid: Ariel's Beginning" },
+      { title: "Trio Luna Meets The Prince and The Pauper" },
+      { title: "Trio Luna Knows How the Grinch Stole Christmas" },
+      { title: "Trio Luna Meets Pocahontas"},
+      { title: "Trio Luna Meets Ferdinand"},
+      { title: "Trio Luna's Adventures of The Nightmare Before Christmas" },
+      { title: "Trio Luna Meets The Hunchback of Notre Dame" },
+      { title: "Trio Luna Meets Oliver and Company" },
+      { title: "Trio Luna Meets Dumbo"}
       // episodios de la temporada 1
     ]
   },
@@ -19,19 +19,29 @@ const episodes = [
     season: 2,
     title: "Temporada 2",
     episodes: [
-      { number: 11, title: "Trio Luna Meets The Little Mermaid" },
-      { number: 12, title: "Trio Luna Meets The Lion King" },
-      { number: 13, title: "Trio Luna Meets Bambi" },
-      { number: 14, title: "Trio Luna Meets The Jungle Book" },
-      { number: 15, title: "Trio Luna Meets The Aristocats" },
-      { number: 16, title: "Trio Luna Meets The Fox and the Hound" },
-      { number: 17, title: "Trio Luna Meets The Rescuers" },
-      { number: 18, title: "Trio Luna Meets The Sword in the Stone" },
-      { number: 19, title: "Trio Luna Meets The Emperor's New Groove" },
-      { number: 20, title: "Trio Luna Meets Mulan" }
+      { title: "Trio Luna Meets The Little Mermaid" },
+      { title: "Trio Luna Meets The Lion King" },
+      { title: "Trio Luna Meets Bambi" },
+      { title: "Trio Luna Meets The Jungle Book" },
+      { title: "Trio Luna Meets The Aristocats" },
+      { title: "Trio Luna Meets The Fox and the Hound" },
+      { title: "Trio Luna Meets The Rescuers" },
+      { title: "Trio Luna Meets The Sword in the Stone" },
+      { title: "Trio Luna Meets The Emperor's New Groove" },
+      { title: "Trio Luna Meets Mulan" }
       // episodios de la temporada 2
     ]
   }
 ];
+
+// Asignar numeración automática
+let episodeCounter = 1;
+const episodes = rawEpisodes.map(season => ({
+  ...season,
+  episodes: season.episodes.map(ep => ({
+    number: episodeCounter++,
+    ...ep
+  }))
+}));
 
 export default episodes;
