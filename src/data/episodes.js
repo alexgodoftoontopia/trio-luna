@@ -23,12 +23,12 @@ const rawEpisodes = [
       { title: "Trio Luna Meets The Little Mermaid" },
       { title: "Trio Luna Meets The Lion King" },
       { title: "Trio Luna Meets Bambi" },
-      { title: "Trio Luna Meets The Jungle Book" },
+      { title: "Trio Luna's Adventures of The Jungle Book" },
       { title: "Trio Luna Meets The Aristocats" },
       { title: "Trio Luna Meets The Fox and the Hound" },
-      { title: "Trio Luna Meets The Rescuers" },
-      { title: "Trio Luna Meets The Sword in the Stone" },
-      { title: "Trio Luna Meets The Emperor's New Groove" },
+      { title: "Trio Luna Joins to The Rescuers" },
+      { title: "Trio Luna and The Sword in the Stone" },
+      { title: "Trio Luna and The Emperor's New Groove" },
       { title: "Trio Luna Meets Mulan" }
       // episodios de la temporada 2
     ]
