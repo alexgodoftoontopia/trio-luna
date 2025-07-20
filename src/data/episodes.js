@@ -73,9 +73,13 @@ const rawEpisodes = [
       { title: "Trio Luna Meets The Nightmare Before Christmas" },
       { title: "Trio Luna Meets The Lion King" },
       { title: "Trio Luna Meets Pocahontas" },
+      { title: "Trio Luna's Adventures of Toy Story"},
+      { title: "Trio Luna's Adventures of A Goofy Movie" },
       { title: "Trio Luna Meets The Hunchback of Notre Dame" },
       { title: "Trio Luna Meets Hercules" },
       { title: "Trio Luna Meets Mulan" },
+      { title: "Trio Luna's Adventures of A Bug's Life" },
+      { title: "Trio Luna Meets The Lion King 2" },
       { title: "Trio Luna Meets Tarzan" }
       // episodios de la temporada 5
     ]
