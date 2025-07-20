@@ -30,12 +30,54 @@ const rawEpisodes = [
     title: "Temporada 3",
     episodes: [
       { title: "Trio Luna Meets Cinderella" },
-      { title: "Trio Luna Meets Alice in Wonderland" },
+      { title: "Trio Luna's Adventures with Alice in Wonderland" },
       { title: "Trio Luna Meets Peter Pan" },
       { title: "Trio Luna Meets Lady and the Tramp" },
       { title: "Trio Luna Meets Sleeping Beauty" },
-      { title: "Trio Luna Meets 101 Dalmatians" }
+      { title: "Trio Luna Meets 101 Dalmatians" },
+      { title: "Trio Luna and The Sword in the Stone" },
+      { title: "Trio Luna Meets Mary Poppins" },
+      { title: "Trio Luna's Adventures of The Jungle Book" }
       // episodios de la temporada 3
+    ]
+  },
+  {
+    season: 4,
+    title: "Temporada 4",
+    episodes: [
+      { title: "Trio Luna Meets The Aristocats" },
+      {title: "Trio Luna's Adventures of Bedknobs and Broomsticks" },
+      { title: "Trio Luna Meets Robin Hood" },
+      { title: "Trio Luna Meets The Many Adventures of Winnie the Pooh" },
+      { title: "Trio Luna Meets The Rescuers" },
+      { title: "Trio Luna Meets Pete's Dragon" },
+      { title: "Trio Luna Meets The Fox and the Hound" },
+      {title: "Trio Luna Meets Tron" },
+      { title: "Trio Luna's Adventures of Mickey's Christmas Carol" },
+      { title: "Trio Luna Meets The Black Cauldron" },
+      { title: "Trio Luna Meets The Great Mouse Detective" },
+      { title: "Trio Luna Meets Oliver & Company" }
+      // episodios de la temporada 4
+    ]
+  },
+  {
+    season: 5,
+    title: "Temporada 5",
+    episodes: [
+      { title: "Trio Luna Meets The Little Mermaid" },
+      {title: "Trio Luna Meets The Prince and the Pauper" },
+      { title: "Trio Luna Meets The Rescuers Down Under" },
+      { title: "Trio Luna Meets Beauty and the Beast" },
+      { title: "Trio Luna Meets Aladdin" },
+      { title: "Trio Luna Says Hocus Pocus" },
+      { title: "Trio Luna Meets The Nightmare Before Christmas" },
+      { title: "Trio Luna Meets The Lion King" },
+      { title: "Trio Luna Meets Pocahontas" },
+      { title: "Trio Luna Meets The Hunchback of Notre Dame" },
+      { title: "Trio Luna Meets Hercules" },
+      { title: "Trio Luna Meets Mulan" },
+      { title: "Trio Luna Meets Tarzan" }
+      // episodios de la temporada 5
     ]
   }
 ];
