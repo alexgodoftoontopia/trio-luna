@@ -52,7 +52,6 @@ const rawEpisodes = [
       { title: "Trio Luna Meets The Rescuers" },
       { title: "Trio Luna Meets Pete's Dragon" },
       { title: "Trio Luna Meets The Fox and the Hound" },
-      {title: "Trio Luna Meets Tron" },
       { title: "Trio Luna's Adventures of Mickey's Christmas Carol" },
       { title: "Trio Luna Meets The Black Cauldron" },
       { title: "Trio Luna Meets The Great Mouse Detective" },
@@ -69,8 +68,6 @@ const rawEpisodes = [
       { title: "Trio Luna Meets The Rescuers Down Under" },
       { title: "Trio Luna Meets Beauty and the Beast" },
       { title: "Trio Luna Meets Aladdin" },
-      { title: "Trio Luna Says Hocus Pocus" },
-      { title: "Trio Luna Meets The Nightmare Before Christmas" },
       { title: "Trio Luna Meets The Lion King" },
       { title: "Trio Luna Meets Pocahontas" },
       { title: "Trio Luna's Adventures of Toy Story"},
@@ -79,7 +76,6 @@ const rawEpisodes = [
       { title: "Trio Luna Meets Hercules" },
       { title: "Trio Luna Meets Mulan" },
       { title: "Trio Luna's Adventures of A Bug's Life" },
-      { title: "Trio Luna Meets The Lion King 2" },
       { title: "Trio Luna Meets Tarzan" }
       // episodios de la temporada 5
     ]
