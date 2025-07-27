@@ -9,7 +9,8 @@ const rawEpisodes = [
       { title: "Trio Luna Goes to Hotel Transylvania" },
       { title: "Trio Luna Meets Bumblebee" },
       { title: "Trio Luna and Knuckles (2024)" },
-      { title: "Trio Luna Meets Shrek" }
+      { title: "Trio Luna Meets Shrek" },
+      { title: "Trio Luna joins to X-Men" },
       // episodios de la temporada 1
     ]
   }
