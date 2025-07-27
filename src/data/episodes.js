@@ -19,9 +19,18 @@ const rawEpisodes = [
       {title: "Trio Luna in Ice Age" },
       { title: "Trio Luna's Adventures of Ice Age: The Meltdown" },
       { title: "Trio Luna's Adventures of Ice Age: Dawn of the Dinosaurs" },
-      { title: "Trio Luna's Adventures of Ice Age: Continental Drift" },
-      { title: "Trio Luna joins to X-Men" },
+      { title: "Trio Luna's Adventures of Ice Age: Continental Drift" }
       // episodios de la temporada 1
+    ]
+  },
+  {
+    season: 2,
+    title: "Temporada 2",
+    episodes: [
+      { title: "Trio Luna joins to X-Men" },
+      { title: "Trio Luna's Adventures of X2: X-Men United" },
+      { title: "Trio Luna's Adventures of X-Men: The Last Stand" },
+      // episodios de la temporada 2
     ]
   }
 ];
