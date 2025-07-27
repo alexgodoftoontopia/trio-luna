@@ -27,6 +27,7 @@ const rawEpisodes = [
     season: 2,
     title: "Temporada 2",
     episodes: [
+      { title: "Trio Luna's Adventures of Transformers: Rise of the Beasts" },
       { title: "Trio Luna joins to X-Men" },
       { title: "Trio Luna's Adventures of X2: X-Men United" },
       { title: "Trio Luna's Adventures of X-Men: The Last Stand" },
