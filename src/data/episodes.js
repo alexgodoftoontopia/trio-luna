@@ -28,6 +28,7 @@ const rawEpisodes = [
       { title: "Trio Luna joins to X-Men" },
       { title: "Trio Luna's Adventures of X2: X-Men United" },
       { title: "Trio Luna's Adventures of X-Men: The Last Stand" },
+      { title: "Trio Luna Goes to Ferngully: The Last Rainforest" }
       // episodios de la temporada 2
     ]
   }
