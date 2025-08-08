@@ -8,8 +8,16 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of The Secret of NIHM" },
       { title: "Trio Luna Goes to Hotel Transylvania" },
       { title: "Trio Luna's Adventures of Babes in Toyland"},
-      { title: "Trio Luna Meets Bumblebee" },
-      { title: "Trio Luna and Knuckles (2024)"},
+      { title: "Trio Luna's Adventures of Transformers One" },
+      { title: "Trio Luna's Adventures of X-Men: The Last Stand" },
+      { title: "Trio Luna Goes to Ferngully: The Last Rainforest" }
+      // episodios de la temporada 1
+    ]
+  },
+  {
+    season: 2,
+    title: "Temporada 2",
+    episodes: [
       { title: "Trio Luna Meets Shrek" },
       { title: "Trio Luna's Adventures of Shrek 2"},
       { title: "Trio Luna's Adventures of Shrek the Third" },
@@ -18,18 +26,6 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of Ice Age: The Meltdown" },
       { title: "Trio Luna's Adventures of Ice Age: Dawn of the Dinosaurs" },
       { title: "Trio Luna's Adventures of Ice Age: Continental Drift" }
-      // episodios de la temporada 1
-    ]
-  },
-  {
-    season: 2,
-    title: "Temporada 2",
-    episodes: [
-      { title: "Trio Luna's Adventures of Transformers: Rise of the Beasts" },
-      { title: "Trio Luna joins to X-Men" },
-      { title: "Trio Luna's Adventures of X2: X-Men United" },
-      { title: "Trio Luna's Adventures of X-Men: The Last Stand" },
-      { title: "Trio Luna Goes to Ferngully: The Last Rainforest" }
       // episodios de la temporada 2
     ]
   }
