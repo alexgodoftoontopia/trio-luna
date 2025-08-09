@@ -3,16 +3,19 @@ const rawEpisodes = [
     season: 1,
     title: "Temporada 1",
     episodes: [
-      { title: "Trio Luna's Adventures of We're Back a Dinosaur Story" },
-      { title: "Trio Luna's Adventures of The Land Before Time" },
+      { title: "Trio Luna Finds to The Black Cauldron" },
+      { title: "Trio Luna's Adventures of A Goofy Movie" },
+      { title: "Trio Luna's Adventures of Babes in Toyland"},
+      { title: "Trio Luna Meets Thumbelina" },
+      { title: "Trio Luna Meets The Swan Princess" },
       { title: "Trio Luna Meets The Great Mouse Detective" },
       { title: "Trio Luna's Adventures of Pokemon the Movie: Secrets of the Jungle" },
       { title: "Trio Luna's Adventures of The Secret of NIHM" },
       { title: "Trio Luna Meets The Prince of Egypt" },
-      { title: "Trio Luna's Adventures of Babes in Toyland"},
       { title: "Trio Luna's Adventures of Transformers One" },
-      { title: "Trio Luna's Adventures of X-Men: The Last Stand" },
-      { title: "Trio Luna Goes to Ferngully: The Last Rainforest" }
+      { title: "Trio Luna Meets The Brave Little Toaster" },
+      { title: "Trio Luna Goes to Ferngully: The Last Rainforest" },
+      { title: "Trio Luna Meets The Pagemaster" }
       // episodios de la temporada 1
     ]
   },
@@ -20,14 +23,20 @@ const rawEpisodes = [
     season: 2,
     title: "Temporada 2",
     episodes: [
-      { title: "Trio Luna Meets Shrek" },
-      { title: "Trio Luna's Adventures of Shrek 2"},
-      { title: "Trio Luna's Adventures of Shrek the Third" },
-      { title: "Trio Luna's Adventures of Shrek Forever After" },
-      {title: "Trio Luna in Ice Age" },
-      { title: "Trio Luna's Adventures of Ice Age: The Meltdown" },
-      { title: "Trio Luna's Adventures of Ice Age: Dawn of the Dinosaurs" },
-      { title: "Trio Luna's Adventures of Ice Age: Continental Drift" }
+      { title: "Trio Luna Go to The Road to el Dorado" },
+      { title: "Trio Luna  Calls Out Help I'm a Fish"},
+      { title: "Trio Luna Meets Sinbad: Legend of the Seven Seas" },
+      { title: "Trio Luna Go to Atlantis The Lost Empire" },
+      {title: "Trio Luna Meets Osmosis Jones" },
+      { title: "Trio Luna Meets Balto" },
+      { title: "Trio Luna Meets Oliver and Company" },
+      { title: "Trio Luna Go to Treasure Planet" },
+      { title: "Trio Luna Meets The Iron Giant" },
+      { title: "Trio Luna and the Rise of the Guardians" },
+      { title: "Trio Luna reads The Book of Life" },
+      { title: "Trio Luna's Adventures of Epic" },
+      { title: "Trio Luna's Adventures When All Dogs go to Heaven" },
+      { title: "Trio Luna's Adventures When All Dogs go to Heaven 2" }
       // episodios de la temporada 2
     ]
   }
