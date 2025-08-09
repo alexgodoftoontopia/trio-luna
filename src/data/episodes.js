@@ -15,7 +15,8 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of Transformers One" },
       { title: "Trio Luna Meets The Brave Little Toaster" },
       { title: "Trio Luna Goes to Ferngully: The Last Rainforest" },
-      { title: "Trio Luna Meets The Pagemaster" }
+      { title: "Trio Luna Meets The Pagemaster" },
+      { title: "Trio Luna Meets Fantastic Four (2005)" }
       // episodios de la temporada 1
     ]
   },
@@ -36,7 +37,8 @@ const rawEpisodes = [
       { title: "Trio Luna reads The Book of Life" },
       { title: "Trio Luna's Adventures of Epic" },
       { title: "Trio Luna's Adventures When All Dogs go to Heaven" },
-      { title: "Trio Luna's Adventures When All Dogs go to Heaven 2" }
+      { title: "Trio Luna's Adventures When All Dogs go to Heaven 2" },
+      { title: "Trio Luna's Adventures of Fantastic Four: Rise of the Silver Surfer" }
       // episodios de la temporada 2
     ]
   }
