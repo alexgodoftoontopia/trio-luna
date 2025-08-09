@@ -6,6 +6,7 @@ const rawEpisodes = [
       { title: "Trio Luna Finds to The Black Cauldron" },
       { title: "Trio Luna's Adventures of A Goofy Movie" },
       { title: "Trio Luna's Adventures of Babes in Toyland"},
+      { title: "Trio Luna Meets Oliver and Company" },
       { title: "Trio Luna Meets Thumbelina" },
       { title: "Trio Luna Meets The Swan Princess" },
       { title: "Trio Luna Meets The Great Mouse Detective" },
@@ -15,8 +16,7 @@ const rawEpisodes = [
       { title: "Trio Luna Meets Bumblebee" },
       { title: "Trio Luna Meets The Brave Little Toaster" },
       { title: "Trio Luna Goes to Ferngully: The Last Rainforest" },
-      { title: "Trio Luna Meets The Pagemaster" },
-      { title: "Trio Luna Meets Fantastic Four (2005)" }
+      { title: "Trio Luna Meets The Pagemaster" }
       // episodios de la temporada 1
     ]
   },
@@ -30,7 +30,7 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of Transformers: Rise of the Beasts" },
       {title: "Trio Luna Meets Osmosis Jones" },
       { title: "Trio Luna Meets Balto" },
-      { title: "Trio Luna Meets Oliver and Company" },
+      { title: "Trio Luna Meets Fantastic Four (2005)" },
       { title: "Trio Luna Go to Treasure Planet" },
       { title: "Trio Luna Meets The Iron Giant" },
       { title: "Trio Luna and the Rise of the Guardians" },
