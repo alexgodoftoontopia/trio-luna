@@ -11,11 +11,20 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of Mickey's Christmas Carol" },
       { title: "Trio Luna Meets Ben and Me" },
       { title: "Trio Luna and Donald in Mathmagic Land" },
-      { title: "Trio Luna and the Adventures of Ichabod and Mr. Toad" },
+      { title: "Trio Luna and the Adventures of Ichabod and Mr. Toad" }
+      // episodios de la temporada 1
+    ]
+  },
+
+  {
+    season: 2,
+    title: "Temporada 2",
+    episodes: [
       { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" }
       // episodios de la temporada 1
     ]
   }
+
 ];
 
 // Asignar numeración automática
