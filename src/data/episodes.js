@@ -6,8 +6,11 @@ const rawEpisodes = [
       { title: "Trio Luna in Once Upon a Studio" },
       { title: "Trio Luna wants to Wish" },
       { title: "Trio Luna Meets The Reluctant Dragon" },
+      { title: "Trio Luna Meets Ferdinand" },
       { title: "Trio Luna's Adventures with Mickey and the Beanstalk" },
       { title: "Trio Luna's Adventures of Mickey's Christmas Carol" },
+      { title: "Trio Luna Meets Ben and Me" },
+      { title: "Trio Luna and Donald in Mathmagic Land" },
       { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" }
       // episodios de la temporada 1
     ]
