@@ -13,6 +13,7 @@ const rawEpisodes = [
       { title: "Trio Luna and Donald in Mathmagic Land" },
       { title: "Trio Luna and the Adventures of Ichabod and Mr. Toad" },
       { title: "Trio Luna Meets Paul Bunyan" },
+      { title: "Trio Luna Meets The Prince and the Pauper" },
       { title: "Trio Luna's Adventures of Fantasia" }
       // episodios de la temporada 1
     ]
