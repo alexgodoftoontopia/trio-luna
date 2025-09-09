@@ -25,7 +25,8 @@ const rawEpisodes = [
     title: "Temporada 2",
     episodes: [
       { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" },
-      { title: "Trio Luna's Adventures of The Lion King"}
+      { title: "Trio Luna's Adventures of The Lion King"},
+      { title: "Trio Luna's Adventures of The Little Mermaid: Ariel's Beginning" }
       // episodios de la temporada 2
     ]
   }
