@@ -24,9 +24,14 @@ const rawEpisodes = [
     season: 2,
     title: "Temporada 2",
     episodes: [
-      { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" },
+      { title: "Trio Luna's Adventures of Pokemon: The Firts Movie"},
       { title: "Trio Luna's Adventures of The Lion King"},
-      { title: "Trio Luna's Adventures of The Little Mermaid: Ariel's Beginning" }
+      { title: "Trio Luna Meets Pocahontas" },
+      { title: "Trio Luna's Adventures of The Little Mermaid: Ariel's Beginning"},
+      { title: "Trio Luna Meets The Hunchback of Notre Dame"},
+      { title: "Trio Luna's Adventures of Beauty and the Beast"},
+      { title: "Trio Luna Meets The Last Unicorn"},
+      { title: "Trio Luna and The Flight of Dragons"}
       // episodios de la temporada 2
     ]
   }
