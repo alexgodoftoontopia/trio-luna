@@ -4,6 +4,7 @@ const rawEpisodes = [
     title: "Temporada 1",
     episodes: [
       { title: "Trio Luna in Once Upon a Studio" },
+      { title: "Trio Luna wants to Wish" },
       { title: "Trio Luna Meets Talon" },
       { title: "Trio Luna's Adventures of The Super Mario Bros Movie" },
       { title: "Trio Luna Meets The Reluctant Dragon" },
