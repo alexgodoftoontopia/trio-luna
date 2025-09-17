@@ -26,6 +26,7 @@ const rawEpisodes = [
     title: "Temporada 2",
     episodes: [
       { title: "Trio Luna Meets Dumbo" },
+      {title: "Trio Luna's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut"},
       { title: "Trio Luna's Adventures of Pokemon: The Firts Movie"},
       { title: "Trio Luna's Adventures of The Lion King"},
       { title: "Trio Luna Meets Pocahontas" },
