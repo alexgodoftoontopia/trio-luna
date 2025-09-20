@@ -4,11 +4,12 @@ const rawEpisodes = [
     title: "Temporada 1",
     episodes: [
       { title: "Trio Luna in Once Upon a Studio" },
+      { title: "Trio Luna Meets Dumbo" },
       { title: "Trio Luna wants to Wish" },
       { title: "Trio Luna Meets Talon" },
       { title: "Trio Luna's Adventures of The Super Mario Bros Movie" },
       { title: "Trio Luna's Adventures of Fantasia" },
-      { title: "Trio Luna Meets Dumbo" },
+      { title: "Trio Luna Meets Bambi" },
       { title: "Trio Luna's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
       { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" },
       { title: "Trio Luna's Adventures of The Lion King" },
