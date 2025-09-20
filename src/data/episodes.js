@@ -31,15 +31,15 @@ const rawEpisodes = [
     season: 3,
     title: "Temporada Children of the Night's Adventures",
     episodes: [
-     { title: "Trio Luna Meets The Reluctant Dragon" },
-      { title: "Trio Luna Meets Ferdinand" },
-      { title: "Trio Luna's Adventures with Mickey and the Beanstalk" },
-      { title: "Trio Luna's Adventures of Mickey's Christmas Carol" },
-      { title: "Trio Luna Meets Ben and Me" },
-      { title: "Trio Luna and Donald in Mathmagic Land" },
-      { title: "Trio Luna and the Adventures of Ichabod and Mr. Toad" },
-      { title: "Trio Luna Meets Paul Bunyan" },
-      { title: "Trio Luna Meets The Prince and the Pauper" }
+     { title: "Children of the Night Meets The Reluctant Dragon" },
+      { title: "Children of the Night Meets Ferdinand" },
+      { title: "Children of the Night's Adventures with Mickey and the Beanstalk" },
+      { title: "Children of the Night's Adventures of Mickey's Christmas Carol" },
+      { title: "Children of the Night Meets Ben and Me" },
+      { title: "Children of the Night and Donald in Mathmagic Land" },
+      { title: "Children of the Night and the Adventures of Ichabod and Mr. Toad" },
+      { title: "Children of the Night Meets Paul Bunyan" },
+      { title: "Children of the Night Meets The Prince and the Pauper" }
       
     ]
   }
