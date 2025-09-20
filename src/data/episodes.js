@@ -13,6 +13,7 @@ const rawEpisodes = [
       { title: "Trio Luna Meets Bambi" },
       { title: "Trio Luna's Adventures of The Little Mermaid" },
       { title: "Trio Luna's Adventures of Fantasia" },
+      { title: "Trio Luna and The Brave Little Toaster to the Rescue" },
       { title: "Trio Luna's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
       { title: "Trio Luna's Adventures of The Lion King" },
       { title: "Trio Luna Meets Pocahontas" },
