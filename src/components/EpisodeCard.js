@@ -3,7 +3,7 @@ import React from 'react';
 function EpisodeCard({ episode }) {
   return (
     <li>
-      <strong>Episodio {episode.number}:</strong> {episode.title}
+      <strong>{episode.number}:</strong> {episode.title}
     </li>
   );
 }
