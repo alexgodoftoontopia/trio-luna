@@ -7,14 +7,7 @@ const rawEpisodes = [
       { title: "Trio Luna wants to Wish" },
       { title: "Trio Luna Meets Talon" },
       { title: "Trio Luna's Adventures of The Super Mario Bros Movie" },
-      { title: "Trio Luna's Adventures of Fantasia" }
-    ]
-  },
-
-  {
-    season: 2,
-    title: "Temporada 2",
-    episodes: [
+      { title: "Trio Luna's Adventures of Fantasia" },
       { title: "Trio Luna Meets Dumbo" },
       { title: "Trio Luna's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
       { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" },
@@ -27,8 +20,9 @@ const rawEpisodes = [
       { title: "Trio Luna and The Flight of Dragons" }
     ]
   },
+
   {
-    season: 3,
+    season: 1,
     title: "Temporada Children of the Night's Adventures",
     episodes: [
      { title: "Children of the Night Meets The Reluctant Dragon" },
