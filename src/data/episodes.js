@@ -42,13 +42,15 @@ const rawEpisodes = [
 ];
 
 // Asignar numeración automática
-let episodeCounter = 1;
-const episodes = rawEpisodes.map(season => ({
-  ...season,
-  episodes: season.episodes.map(ep => ({
-    number: episodeCounter++,
-    ...ep
-  }))
-}));
+const episodes = rawEpisodes.map(season => {
+  let episodeCounter = 1; // Reinicia el contador en cada temporada
+  return {
+    ...season,
+    episodes: season.episodes.map(ep => ({
+      number: episodeCounter++,
+      ...ep
+    }))
+  };
+});
 
 export default episodes;
