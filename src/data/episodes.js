@@ -14,7 +14,7 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of The Little Mermaid" },
       { title: "Trio Luna's Adventures of Fantasia" },
       { title: "Trio Luna and The Brave Little Toaster to the Rescue" },
-      { title: "Trio Luna's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
+      { title: "Trio Luna's Nightmare Before Christmas" },
       { title: "Trio Luna's Adventures of The Lion King" },
       { title: "Trio Luna Meets Pocahontas" },
       { title: "Trio Luna Meets The Hunchback of Notre Dame" },
@@ -29,6 +29,7 @@ const rawEpisodes = [
     title: "Temporada Children of the Night's Adventures",
     episodes: [
      { title: "Children of the Night Meets The Reluctant Dragon" },
+     { title: "Children of the Night's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
       { title: "Children of the Night Meets Ferdinand" },
       { title: "Children of the Night's Adventures with Mickey and the Beanstalk" },
       { title: "Children of the Night's Adventures of Mickey's Christmas Carol" },
@@ -37,7 +38,7 @@ const rawEpisodes = [
       { title: "Children of the Night and the Adventures of Ichabod and Mr. Toad" },
       { title: "Children of the Night Meets Paul Bunyan" },
       { title: "Children of the Night Meets The Prince and the Pauper" },
-      { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" },
+      { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" }
       
     ]
   }
