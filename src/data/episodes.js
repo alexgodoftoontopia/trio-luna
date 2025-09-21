@@ -28,7 +28,7 @@ const rawEpisodes = [
     season: 1,
     title: "Temporada Children of the Night's Adventures",
     episodes: [
-     { title: "Trio Luna Meets Dumbo" },
+     { title: "Children of the Night Meets Dumbo" },
       { title: "Children of the Night Meets The Reluctant Dragon" },
      { title: "Children of the Night's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
       { title: "Children of the Night Meets Ferdinand" },
