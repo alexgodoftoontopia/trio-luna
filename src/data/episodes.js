@@ -59,7 +59,7 @@ const rawEpisodes = [
     title: "Crossovers Adventures Series",
     episodes: [
     { title: "Trio Luna and Trio Guardians Meets The Last Unicorn" },
-    { title: "Trio Luna and The Flight of Dragons"}
+    { title: "Trio Luna, Trio Guardians and The Flight of Dragons"}
       
     ]
   }
