@@ -26,7 +26,7 @@ const rawEpisodes = [
     season: 1,
     title: "Temporada Children of the Night's Adventures",
     episodes: [
-     { title: "Children of Nights joins Gulliver's Travels" }, //Esta aventura sucede después de 
+     { title: "Children of Nights joins Gulliver's Travels" }, //Esta aventura sucede después de Fantasia
     { title: "Children of Nights Meets The Brave Little Toaster" },
     { title: "Trio Luna and The Brave Little Toaster to the Rescue" }
       
