@@ -12,8 +12,7 @@ const rawEpisodes = [
       { title: "Trio Luna's Nightmare Before Christmas" },
       { title: "Trio Luna's Adventures of The Lion King" },
       { title: "Trio Luna Meets The Hunchback of Notre Dame" },
-      { title: "Trio Luna's Adventures of Beauty and the Beast" },
-      { title: "Trio Luna and The Flight of Dragons"}
+      { title: "Trio Luna's Adventures of Beauty and the Beast" }
     ]
   },
 
@@ -59,7 +58,8 @@ const rawEpisodes = [
     season: 5,
     title: "Crossovers Adventures Series",
     episodes: [
-    { title: "Trio Luna and Trio Guardians Meets The Last Unicorn" }
+    { title: "Trio Luna and Trio Guardians Meets The Last Unicorn" },
+    { title: "Trio Luna and The Flight of Dragons"}
       
     ]
   }
