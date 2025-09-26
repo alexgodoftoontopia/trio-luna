@@ -4,16 +4,13 @@ const rawEpisodes = [
     title: "Temporada 1",
     episodes: [
       { title: "Trio Luna in Once Upon a Studio" },
-      { title: "Trio Luna joins Gulliver's Travels" },
-      { title: "Trio Luna Meets The Brave Little Toaster" },
       { title: "Trio Luna wants to Wish" },
       { title: "Trio Luna Meets Talon" },
+      { title: "Trio Luna Meets Aladdin" },
       { title: "Trio Luna's Adventures of The Super Mario Bros Movie" },
       { title: "Trio Luna Meets Bambi" },
       { title: "Trio Luna Meets The Little Mermaid" },
-      { title: "Trio Luna Meets Aladdin" },
       { title: "Trio Luna's Adventures of Fantasia" },
-      { title: "Trio Luna and The Brave Little Toaster to the Rescue" },
       { title: "Trio Luna's Nightmare Before Christmas" },
       { title: "Trio Luna's Adventures of The Lion King" },
       { title: "Trio Luna Meets Pocahontas" },
@@ -28,18 +25,9 @@ const rawEpisodes = [
     season: 1,
     title: "Temporada Children of the Night's Adventures",
     episodes: [
-     { title: "Children of the Night Meets Dumbo" },
-      { title: "Children of the Night Meets The Reluctant Dragon" },
-     { title: "Children of the Night's Adventures of Donkey Kong Country: The Legend of the Crystal Coconut" },
-      { title: "Children of the Night Meets Ferdinand" },
-      { title: "Children of the Night's Adventures with Mickey and the Beanstalk" },
-      { title: "Children of the Night's Adventures of Mickey's Christmas Carol" },
-      { title: "Children of the Night Meets Ben and Me" },
-      { title: "Children of the Night and Donald in Mathmagic Land" },
-      { title: "Children of the Night and the Adventures of Ichabod and Mr. Toad" },
-      { title: "Children of the Night Meets Paul Bunyan" },
-      { title: "Children of the Night Meets The Prince and the Pauper" },
-      { title: "Trio Luna's Adventures of Pokemon: The Firts Movie" }
+     { title: "Children of Nights joins Gulliver's Travels" }, //Esta aventura sucede después de 
+    { title: "Children of Nights Meets The Brave Little Toaster" },
+    { title: "Trio Luna and The Brave Little Toaster to the Rescue" }
       
     ]
   }
