@@ -45,11 +45,7 @@ const rawEpisodes = [
     season: 4,
     title: "Alex and Kaa's Adventures Series",
     episodes: [
-    { title: "Alex and Kaa's Adventures of Donkey Kong Country" },
-    { title: "Bambi and Cream's Adventures of Pokemon I Choose You"},
-    { title: "Bambi and Cream joins Gulliver's Travels" }, 
-    { title: "Bambi and Cream Meets The Brave Little Toaster" },
-    { title: "Bambi, Cream and The Brave Little Toaster to the Rescue" }
+    { title: "Alex and Kaa's Adventures of Donkey Kong Country" }
       
     ]
   },
