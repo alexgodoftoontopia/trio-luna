@@ -15,7 +15,7 @@ const rawEpisodes = [
       { title: "Trio Luna Meets The Reluctant Dragon" },
       { title: "Trio Luna's Adventures of The Lion King" }, //el trio luna se transformaran en animales de africa, Rey Sombra, Magica De hechizos, Bill Cipher y Lord Dominador se aliaran con Scar, y en la escena post-credito aparece Black Hat en el que mandara a su aprendiz Darkash
       {title: "Trio Luna Meets Pocahontas"}, // el trio lunatica se aliaran con Gobernador Ratcliffe
-      { title: "Trio Luna's Nightmare Before Christmas" }, 
+      { title: "Trio Luna's Nightmare Before Christmas" }, //debut de Darkash contra el trio luna
       { title: "Trio Luna Meets The Hunchback of Notre Dame" },
       { title: "Trio Luna's Adventures of Beauty and the Beast" },
       { title: "Trio Luna's Adventures of Fantasia" }
