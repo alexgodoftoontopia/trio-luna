@@ -1,7 +1,7 @@
 const rawEpisodes = [
   {
     season: 1,
-    title: "Trio Luna's Adventures Series",
+    title: "Temporada 1",
     episodes: [
       { title: "Trio Luna in Once Upon a Studio" },
       { title: "Trio Luna Meets Talon" }, //Talon se unira al final del piloto
