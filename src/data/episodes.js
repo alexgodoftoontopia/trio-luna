@@ -8,12 +8,12 @@ const rawEpisodes = [
       { title: "Trio Luna wants to Wish" }, //Debut de Talon y Estrella se une al final, El trio lunatica (Opaline, Ash y Susie) se aliaran con el Rey Magnifico, Black Hat aparecera en el post credito como Thanos
       {title: "Trio Luna's Adventures of The Jungle Book"}, //debut de Estrella y adoptan a Jake y Jenna (los hijos de Soarin), el trio lunatica se aliaran con Shere Khan, en el post credito Black Hat invoca a Rey Sombra, Magica De hechizos, Bill Cipher y Lord Dominador haciendo referencia a My Little Pony
       { title: "Trio Luna Meets Aladdin" }, //Rey Sombra, Magica De hechizos, Bill Cipher y Lord Dominador se aliaran con Jafar
-      { title: "Trio Luna Meets The Little Mermaid" },
-      { title: "Trio Luna's Adventures of Fantasia" },
+      { title: "Trio Luna Meets The Little Mermaid" }, //el trio lunatica se aliaran con Ursula
       { title: "Trio Luna's Nightmare Before Christmas" },
       { title: "Trio Luna's Adventures of The Lion King" },
       { title: "Trio Luna Meets The Hunchback of Notre Dame" },
-      { title: "Trio Luna's Adventures of Beauty and the Beast" }
+      { title: "Trio Luna's Adventures of Beauty and the Beast" },
+      { title: "Trio Luna's Adventures of Fantasia" }
     ]
   }
 ];
