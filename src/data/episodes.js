@@ -7,6 +7,7 @@ const rawEpisodes = [
       { title: "Trio Luna Meets Talon" }, //Talon se unira al final del piloto
       { title: "Trio Luna wants to Wish" }, //Debut de Talon y Estrella se une al final, El trio lunatica (Opaline, Ash y Susie) se aliaran con el Rey Magnifico, Black Hat aparecera en el post credito como Thanos
       {title: "Trio Luna Meets Pinocchio"}, //debut de Estrella, y el trio luna rescatan a Jake, Jenna, las cutie mark crusaders, Cream y Maria Robotnik de las garras del Cochero
+      {title: "Trio Luna Go to Labyrinth"}, //Black hat por primera vez se enfrentara al trio luna
       {title: "Trio Luna's Adventures of The Jungle Book"}, //el trio lunatica se aliaran con Shere Khan, en el post credito Black Hat invoca a Rey Sombra, Magica De hechizos, Bill Cipher y Lord Dominador haciendo referencia a My Little Pony
       {title: "Trio Luna Meets Dumbo"},
       { title: "Trio Luna Meets Bambi" }, //luna loud y Loona se transformaran animales
@@ -22,7 +23,7 @@ const rawEpisodes = [
       {title: " Trio Luna meets Spider-Man (2002)"},
       { title: "Trio Luna's Adventures of Beauty and the Beast" }, //Darkash y el trio lunatica se aliaran con Gaston
       {title: "Trio Luna's Adventures of Beauty and the Beast: The Enchanted Christmas"}, //Darkash, Rey Sombra, Magica De hechizos, Bill Cipher y Lord Dominador se aliaran con Forte
-      { title: "Trio Luna's Adventures of Fantasia" } //Black hat por primera vez se enfrentara al trio luna
+      { title: "Trio Luna's Adventures of Fantasia" } //Black hat por primera vez invocara a su equipo completo de villanos
     ]
   }
 ];
