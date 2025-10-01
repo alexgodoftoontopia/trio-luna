@@ -38,6 +38,9 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of Pokemon The First Movie" },
       { title: "Trio Luna's Adventures of Pokemon The Movie 2000" },
       { title: "Trio Luna's Adventures of Pokemon The Movie 3" },
+      { title: "Trio Luna' Meets Batman (1989)" },
+      { title: "Trio Luna Meets Batman Returns" },
+      { title: "Trio Luna Meets The Lord of the Rings: The Fellowship of the Ring" },
 
     ]
   }
