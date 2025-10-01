@@ -48,9 +48,7 @@ const rawEpisodes = [
       { title: "Trio Luna's Adventures of Mortadelo y Filemon: El armario del tiempo" },
       { title: "Trio Luna plays Jumanji" },
       { title: "Trio Luna Goes to Jurassic Park Trilogy" },
-      { title: "Trio Luna's Adventures of Toy Story Trilogy" },
-
-
+      { title: "Trio Luna's Adventures of Toy Story Trilogy" }
     ]
   }
 ];
