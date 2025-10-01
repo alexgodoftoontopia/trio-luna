@@ -41,6 +41,15 @@ const rawEpisodes = [
       { title: "Trio Luna' Meets Batman (1989)" },
       { title: "Trio Luna Meets Batman Returns" },
       { title: "Trio Luna Meets The Lord of the Rings: The Fellowship of the Ring" },
+      { title: "Trio Meets Barbie (2023)" },
+      { title: "Trio Luna Meets Barbie: The Princess and the Pauper" },
+      { title: "Trio Luna's Adventures of The SpongeBob Movie" },
+      { title: "Trio Luna's Adventures of Star Wars: Episode I - The Phantom Menace" },
+      { title: "Trio Luna's Adventures of Mortadelo y Filemon: El armario del tiempo" },
+      { title: "Trio Luna plays Jumanji" },
+      { title: "Trio Luna Goes to Jurassic Park Trilogy" },
+      { title: "Trio Luna's Adventures of Toy Story Trilogy" },
+
 
     ]
   }
