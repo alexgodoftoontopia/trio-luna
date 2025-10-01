@@ -1,5 +1,15 @@
 const rawEpisodes = [
   {
+    season: 0,
+    title: "Temporada 0",
+    episodes: [
+      { title: "Trio Luna in Once Upon a Studio" },
+      { title: "Trio Luna Meets Talon" }, //Talon se unira al final del piloto
+      { title: "Trio Luna wants to Wish" } //Debut de Talon y Estrella se une al final, El trio lunatica (Opaline, Ash y Susie) se aliaran con el Rey Magnifico, Black Hat aparecera en el post credito como Thanos
+    ]
+  },
+  
+  {
     season: 1,
     title: "Temporada 1",
     episodes: [
