@@ -14,7 +14,17 @@ const rawEpisodes = [
       { title: "Trio Luna Meets Sleeping Beauty" }
       
     ]
+  },
+
+  {
+    season: 0,
+    title: "Temporada Especiales",
+    episodes: [
+      { title: "Trio Luna and The Nightmare Before Christmas" }
+      
+    ]
   }
+
 ];
 
 const episodes = rawEpisodes.map(season => {
