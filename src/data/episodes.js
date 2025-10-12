@@ -12,6 +12,7 @@ const rawEpisodes = [
     title: "Temporada 1: Inicio del Viaje",
     episodes: [
       { title: "Trio Luna enters The Haunted Mansion" }, //esta primera aventura del tiro luna transcurre despues de the Return of grogar porque he pensado hacer algo parecido a la de pooh's adventures of the nightmare Before christmas en el que aparece Lord Muerte con Grogar maquinando un malvado plan y que hablan de la profecía incluso, y luego en el epilogo aparecería de nuevo Lord Muerte en el que enviara Malefica a acabar con el trio luna y algunos ponis (cosa que seria para la siguiente aventura en la bella durmiente)
+      { title: "Trio Luna Meets Dumbo" },
       { title: "Trio Luna Meets Sleeping Beauty" }, 
       { title: "Trio Luna Meets 101 Dalmatians" }
       
