@@ -3,7 +3,7 @@ const rawEpisodes = [
     season: 0,
     title: "Piloto",
     episodes: [
-      { title: "The Return of Grogar" },
+      { title: "The Return of Grogar" }, //buscare una forma de hacer reunir por primera vez a la princesa luna con Loona y Luna Loud que muy posiblemente lo hara yensid o Merlin para explicar la profecia
       ]
   },
   
@@ -11,8 +11,8 @@ const rawEpisodes = [
     season: 1,
     title: "Temporada 1: Inicio del Viaje",
     episodes: [
-      { title: "Trio Luna and The Nightmare Before Christmas" }, //buscare una forma de hacer reunir por primera vez a la princesa luna con Loona y Luna Loud que muy posiblemente lo hara yensid o Merlin para explicar la profecia
-      { title: "Trio Luna Meets Sleeping Beauty" }, //esta primera aventura del tiro luna transcurre despues de the Return of grogar porque he pensado hacer algo parecido a la de pooh's adventures of the nightmare Before christmas en el que aparece Lord Muerte con Grogar maquinando un malvado plan y que hablan de la profecía incluso, y luego en el epilogo aparecería de nuevo Lord Muerte en el que enviara Malefica a acabar con el trio luna y algunos ponis (cosa que seria para la siguiente aventura en la bella durmiente)
+      { title: "Trio Luna enters The Haunted Mansion" }, //esta primera aventura del tiro luna transcurre despues de the Return of grogar porque he pensado hacer algo parecido a la de pooh's adventures of the nightmare Before christmas en el que aparece Lord Muerte con Grogar maquinando un malvado plan y que hablan de la profecía incluso, y luego en el epilogo aparecería de nuevo Lord Muerte en el que enviara Malefica a acabar con el trio luna y algunos ponis (cosa que seria para la siguiente aventura en la bella durmiente)
+      { title: "Trio Luna Meets Sleeping Beauty" }, 
       { title: "Trio Luna Meets 101 Dalmatians" }
       
     ]
